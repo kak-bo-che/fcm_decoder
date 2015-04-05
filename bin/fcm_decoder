@@ -1,0 +1,2 @@
+require 'fcm_decoder'
+require 'trollop'
